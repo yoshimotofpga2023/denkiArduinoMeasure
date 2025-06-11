@@ -40,7 +40,7 @@ CSVファイルに保存する．
 - シリアル通信受信用のプログラム(python製GUI)
 - 未実装．GUIを用いないPythonプログラム
 
-'''
+```
 import serial
 import time
 
@@ -59,11 +59,11 @@ except KeyboardInterrupt:
 finally:
     ser.close()
 
-'''
+```
 
 - Arduinoのプログラム
 
-'''
+```
 #define SENSOR_PIN 0
 
 void setup() {
@@ -86,7 +86,7 @@ void loop() {
   
   delay(500);  // 0.5秒ごとに測定
 }
-'''
+```
 
 ## 実験２
 ### 超音波センサーとtoioを利用した音速測定プログラム
@@ -111,7 +111,7 @@ void loop() {
 
 - Pythonプログラム
 
-'''
+```
 import serial
 import csv
 import os
@@ -317,11 +317,11 @@ if __name__ == "__main__":
     app = ToioMeasurementApp(root)
     root.mainloop()
 
-'''
+```
 
 - Arduinoのプログラム
 
-'''
+```
 #define TRIG_PIN 9
 #define ECHO_PIN 2
 #define BUTTON_PIN 3
@@ -356,7 +356,7 @@ void loop() {
 
   delay(500);  // 0.5秒ごとに測定
 }
-'''
+```
 
 - Excelによる最小自乗実装例
 
