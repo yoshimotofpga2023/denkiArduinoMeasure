@@ -1,1 +1,3 @@
 # denkiArduinoMeasure
+
+Arduinoを用いた計測実験のアイディアをメモします．

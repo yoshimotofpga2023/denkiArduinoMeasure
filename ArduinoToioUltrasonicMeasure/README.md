@@ -7,18 +7,361 @@ ArduinoƒXƒ^[ƒ^[ƒLƒbƒg‚É•t‘®‚³‚ê‚Ä‚¢‚é’´‰¹”gƒZƒ“ƒT[‚©‚çæ“¾‚Å‚«‚é’li‰¹”g‚Ì’µ‚
 
 
 ## “à—e
-E’´‰¹”gƒZƒ“ƒT[‚ÉÚ‘±‚³‚ê‚éArduino‚©‚çAArduino“dŒ¹“Š“ü’¼Œã‚©‚çˆê’è‚ÌŠÔŠu‚ÅƒVƒŠƒAƒ‹’ÊM‚Å’´‰¹”gƒZƒ“ƒT[‚Ì‰¹”g’µ‚Ë•Ô‚èŠÔiusj‚ğ
+- ’´‰¹”gƒZƒ“ƒT[‚ÉÚ‘±‚³‚ê‚éArduino‚©‚çAArduino“dŒ¹“Š“ü’¼Œã‚©‚çˆê’è‚ÌŠÔŠu‚ÅƒVƒŠƒAƒ‹’ÊM‚Å’´‰¹”gƒZƒ“ƒT[‚Ì‰¹”g’µ‚Ë•Ô‚èŠÔiusj‚ğ
 PC‚Ö‘—M‚·‚éD
 
-EPC‚Å‚ÍPython‚É‚æ‚èƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ğs‚¤D
+- PC‚Å‚ÍPython‚É‚æ‚èƒvƒƒOƒ‰ƒ~ƒ“ƒO‚ğs‚¤D
 Python‚ÅArduino‚©‚ç‘—‚ç‚ê‚éƒVƒŠƒAƒ‹’ÊM’l‚ğóM‚·‚éD
 “¯‚ÉAtoio‚Æ‚¢‚¤ƒƒ{ƒbƒgEƒvƒƒOƒ‰ƒ~ƒ“ƒO‹³Şƒƒ{ƒbƒg‚ğPythonŒo—R‚Å§Œä‚·‚éD
 toio‚Íê—pƒ}ƒbƒg‚É‚æ‚è³Šm‚ÈˆÚ“®‹——£‚ğ‹‚ß‚é‚±‚Æ‚ª‚Å‚«‚éDiA3ƒTƒCƒY’ö“x‚Ì‹——£‚ğˆÚ“®‰Â”\j
 ¨Pyinstller‚Æ‚¢‚¤Pythonƒ‰ƒCƒuƒ‰ƒŠ‚Åexe‰»‰Â”\i‚½‚Ô‚ñAŠw¶‚ªPython‚ÌÀsŠÂ‹«‚ğ®‚¦‚é•K—v‚È‚µj
 
-EPython‚Åã‹LAArduino‚©‚ç‚Ì‰¹”g’µ‚Ë•Ô‚èŠÔius¨s‚Ö•ÏŠ·j‚Æ‚±‚ê‚É“¯Šú‚µ‚ÄˆÚ“®‚µ‚½toio‚ÌˆÚ“®‹——£(cm¨m)‚ğ
+- Python‚Åã‹LAArduino‚©‚ç‚Ì‰¹”g’µ‚Ë•Ô‚èŠÔius¨s‚Ö•ÏŠ·j‚Æ‚±‚ê‚É“¯Šú‚µ‚ÄˆÚ“®‚µ‚½toio‚ÌˆÚ“®‹——£(cm¨m)‚ğ
 CSVƒtƒ@ƒCƒ‹‚É•Û‘¶‚·‚éD
 
-E‚±‚ÌCSVƒtƒ@ƒCƒ‹‚ğ•t‘®‚ÌExcel‚Ì‚æ‚¤‚ÉÅ¬©æ–@‚Å‹ß—‹Èü‚Ìƒvƒƒbƒg‚ÆŒX‚«‚ğ‹‚ß‚é‚±‚Æ‚É—˜—p‚Å‚«‚éD
-E‚Ü‚½ApythonƒvƒƒOƒ‰ƒ€‚Å‚ÍŒv‘ª‚Æ“¯‚É‘ª’è‚µ‚½’l‚©‚çÅ¬©æ–@‚ğ—˜—p‚µ‚Ä’¼Ú‹ß—’¼ü‚ªƒvƒƒbƒg‚³‚ê‚é‚æ‚¤‚É‚µ‚Ä‚¢‚éD
+- ‚±‚ÌCSVƒtƒ@ƒCƒ‹‚ğ•t‘®‚ÌExcel‚Ì‚æ‚¤‚ÉÅ¬©æ–@‚Å‹ß—‹Èü‚Ìƒvƒƒbƒg‚ÆŒX‚«‚ğ‹‚ß‚é‚±‚Æ‚É—˜—p‚Å‚«‚éD
+- ‚Ü‚½ApythonƒvƒƒOƒ‰ƒ€‚Å‚ÍŒv‘ª‚Æ“¯‚É‘ª’è‚µ‚½’l‚©‚çÅ¬©æ–@‚ğ—˜—p‚µ‚Ä’¼Ú‹ß—’¼ü‚ªƒvƒƒbƒg‚³‚ê‚é‚æ‚¤‚É‚µ‚Ä‚¢‚éD
 
+### ÀŒ±ƒXƒPƒWƒ…[ƒ‹
+
+- 1‰ñ‚ÌÀŒ±i4ŒÀ‚ğ‘z’èj
+- 1, 2ŒÀFÀŒ±‚P‚Ìƒ`ƒ…[ƒgƒŠƒAƒ‹“I‚ÈƒVƒŠƒAƒ‹’ÊM‚ÌƒvƒƒOƒ‰ƒ€‚ğì¬‚µ‰·“x‚ğŒv‘ª‚Å‚«‚é‚Æ‚±‚ë‚Ü‚Ås‚¤D
+‚Ü‚½A3,4ŒÀ‚Å’ñ¦‚·‚é‰Û‘è‚Ü‚Å‚ğŠTà‚·‚éD
+- 3, 4ŒÀFÀŒ±‚Q‚ğs‚¢’´‰¹”gƒZƒ“ƒT[‚É‚æ‚è‰¹‘¬‚ğÅ¬“ñæ–@‚ÌŒX‚«‚©‚ç‹‚ß‚éD
+
+## ÀŒ±‚P
+### ‰·“xƒZƒ“ƒT[‚ğ—p‚¢‚½PC‚ÆƒVƒŠƒAƒ‹’ÊMƒvƒƒOƒ‰ƒ€‚Ìì¬
+
+- ƒVƒŠƒAƒ‹’ÊM“™‚Ìd—l‚ğ’ñ¦‚µA‚»‚ê‚É‘¦‚µ‚½Arduino‚ÌƒvƒƒOƒ‰ƒ€‚ğì¬‚·‚éD
+- Šî–{“I‚É‚ÍArduino‚ÌƒvƒƒOƒ‰ƒ€‚ğ’ñ¦‚µ‚Ä‚¨‚­iƒvƒƒOƒ‰ƒ€‚ÍŒŠ–„‚ßŒ`®AƒVƒŠƒAƒ‹’ÊM‚âA‰·“xƒZƒ“ƒT[‚©‚çæ“¾‚µ‚½ƒfƒWƒ^ƒ‹’l‚ğ‰·“x‚É•ÏŠ·‚·‚é‚Æ‚±‚ë‚È‚Çj
+
+#### d—l‚ÆƒvƒƒOƒ‰ƒ€
+
+- ƒVƒŠƒAƒ‹’ÊMóM—p‚ÌƒvƒƒOƒ‰ƒ€(python»GUI)
+- –¢À‘•DGUI‚ğ—p‚¢‚È‚¢PythonƒvƒƒOƒ‰ƒ€
+
+'''
+import serial
+import time
+
+# ƒVƒŠƒAƒ‹ƒ|[ƒg‚Æƒ{[ƒŒ[ƒg‚ğİ’è
+ser = serial.Serial('COM3', 9600, timeout=1)  # COMƒ|[ƒg‚Í“K‹X•ÏXi—áF'COM3'‚â'/dev/ttyACM0'j
+
+time.sleep(2)  # Arduino‚ªƒŠƒZƒbƒg‚·‚é‚Ì‚ğ‘Ò‚Â
+
+try:
+    while True:
+        if ser.in_waiting > 0:
+            line = ser.readline().decode('utf-8').strip()
+            print(line)
+except KeyboardInterrupt:
+    print("I—¹‚µ‚Ü‚·B")
+finally:
+    ser.close()
+
+'''
+
+- Arduino‚ÌƒvƒƒOƒ‰ƒ€
+
+'''
+#define SENSOR_PIN 0
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+
+  float temp, volt;
+  int value;
+
+  value = analogRead(SENSOR_PIN);
+
+  volt = (float) value * 5.0 / 1023.0;
+  temp = volt * 100 - 60;
+
+  Serial.print("Temperature:  ");
+  Serial.println( temp );
+
+  
+  delay(500);  // 0.5•b‚²‚Æ‚É‘ª’è
+}
+'''
+
+## ÀŒ±‚Q
+### ’´‰¹”gƒZƒ“ƒT[‚Ætoio‚ğ—˜—p‚µ‚½‰¹‘¬‘ª’èƒvƒƒOƒ‰ƒ€
+
+- ƒVƒŠƒAƒ‹’ÊM“™‚Ìd—l‚Ì‚İ‚ğ’ñ¦‚µA‚»‚ê‚É‘¦‚µ‚½Arduino‚ÌƒvƒƒOƒ‰ƒ€‚ğì¬‚·‚éD
+- d—l‚É‰‚¶‚ÄArduino‘¤‚ÌƒvƒƒOƒ‰ƒ€‚ğŠw¶©g‚ªì¬‚·‚éD
+- Python»‚ÌGUIƒ\ƒtƒg‚Ì”z•z‚ÆAg‚¢•ûAtoio‚Æ‚Ì˜AŒgè‡“™‚Í•Ê“rà–¾‚·‚éD
+- Arduino‘¤‚©‚ç‘—M‚³‚ê‚½’´‰¹”gƒZƒ“ƒT[‚Ì‰¹”g’µ‚Ë•Ô‚èŠÔ‚Ætoio‚Ì—İÏˆÚ“®‹——£‚ªPC‚ÉCSVƒtƒ@ƒCƒ‹Œ`®‚Åo—Í‚³‚ê‚éD
+Šw¶‚ÌPC‚ÅExcel(‚ ‚é‚¢‚ÍAmatlab?)‚ğ—˜—p‚µ‚ÄCSVƒf[ƒ^‚ğƒCƒ“ƒ|[ƒg‚µAÅ¬“ñæ–@‚ÌÀ‘•iŒX‚«AØ•Ğ‚Ì“±ojAƒOƒ‰ƒt‚Ìì¬‚ğs‚¤D
+
+#### d—l‚ÆƒvƒƒOƒ‰ƒ€
+
+- ƒVƒŠƒAƒ‹’ÊMóM—p‚ÌƒvƒƒOƒ‰ƒ€(python»GUI)
+- GUI‰æ–Ê—á
+
+-- ‹N“®‰æ–Ê
+![GUI01](./pic/gui01.png "GUI01")
+
+-- Œv‘ªŒã‰æ–Ê
+
+![GUI02](./pic/gui02.png "GUI02")
+
+- PythonƒvƒƒOƒ‰ƒ€
+
+'''
+import serial
+import csv
+import os
+import math
+import asyncio
+import configparser
+from datetime import datetime
+import matplotlib.pyplot as plt
+import numpy as np
+from toio import *
+import tkinter as tk
+from tkinter import ttk
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+import threading
+
+# ‰Šúİ’è
+print("İ’èƒtƒ@ƒCƒ‹“Ç‚İ‚İ’†...")
+dir_path = os.path.dirname(__file__)
+config = configparser.ConfigParser()
+config.read(os.path.join(dir_path, 'config.ini'), encoding='utf-8')
+serial_port = config.get('Serial', 'port')
+baudrate = config.getint('Serial', 'baudrate')
+csv_file = os.path.join(dir_path, 'distance_log.csv')
+print(f"g—pƒVƒŠƒAƒ‹ƒ|[ƒg: {serial_port}, ƒ{[ƒŒ[ƒg: {baudrate}")
+
+class ToioMeasurementApp:
+    def __init__(self, root):
+        print("GUI‰Šú‰»’†...")
+        self.root = root
+        self.root.title("Toio‹——£Œv‘ªƒAƒvƒŠ")
+
+        self.fig, self.ax = plt.subplots()
+        self.canvas = FigureCanvasTkAgg(self.fig, master=self.root)
+        self.canvas.get_tk_widget().pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+
+        control_frame = tk.Frame(self.root)
+        control_frame.pack(side=tk.RIGHT, fill=tk.Y)
+
+        self.start_button = tk.Button(control_frame, text="Œv‘ªŠJn", command=self.start_measurement)
+        self.start_button.pack(pady=10)
+
+        self.quit_button = tk.Button(control_frame, text="I—¹", command=self.quit_application)
+        self.quit_button.pack(pady=10)
+
+        self.tree = ttk.Treeview(control_frame, columns=("#1", "#2", "#3"), show="headings")
+        self.tree.heading("#1", text="‰ñ”")
+        self.tree.heading("#2", text="‘ª’èŠÔ[us]")
+        self.tree.heading("#3", text="—İÏ‹——£[m]")
+        self.tree.pack(fill=tk.BOTH, expand=True)
+
+        self.ser = serial.Serial(serial_port, baudrate, timeout=2)
+        print("ƒVƒŠƒAƒ‹ƒ|[ƒg‚ğƒI[ƒvƒ“‚µ‚Ü‚µ‚½")
+        self.previous_time = datetime.now()
+        self.previous_position = None
+
+    def start_measurement(self):
+        print("Œv‘ªƒXƒŒƒbƒhŠJn")
+        thread = threading.Thread(target=self.run_asyncio_loop)
+        thread.start()
+
+    def run_asyncio_loop(self):
+        print("”ñ“¯Šúƒ‹[ƒvŠJn")
+        asyncio.run(self.move_toio_in_steps())
+
+    def quit_application(self):
+        print("ƒAƒvƒŠƒP[ƒVƒ‡ƒ“I—¹ˆ—ŠJn")
+        try:
+            if self.ser.is_open:
+                print("ƒVƒŠƒAƒ‹ƒ|[ƒg‚ğ•Â‚¶‚Ü‚·")
+                self.ser.close()
+        except Exception as e:
+            print(f"ƒVƒŠƒAƒ‹ƒ|[ƒgƒNƒ[ƒYƒGƒ‰[: {e}")
+        self.root.quit()
+
+    async def move_toio_in_steps(self):
+        print("toioƒXƒLƒƒƒ“ŠJn")
+        dev_list = await BLEScanner.scan(num=1)
+        assert len(dev_list)
+
+        print("toioÚ‘±’†...")
+        cube = ToioCoreCube(dev_list[0].interface)
+        await cube.connect()
+        print("toioÚ‘±Š®—¹")
+
+        x_start = 170
+        y = 180
+        steps = 10
+        step_size = 15
+        delay_sec = 3
+
+        cumulative_m = 0.0
+        distances = []
+        times = []
+
+        print("CSVƒtƒ@ƒCƒ‹ì¬’†...")
+        with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            writer.writerow(["Timestamp", "Elapsed_sec", "Ultrasonic_cm", "Toio_moved_mm", "Duration_us", "Distance_m", "Elapsed_s", "Cumulative_m"])
+
+        try:
+            for i in range(steps):
+                print(f"ƒXƒeƒbƒv {i+1}/{steps}: ƒ‚[ƒ^[§ŒäŠJn")
+                if steps < 30:
+                    await cube.api.motor.motor_control(10, 10)
+                elif steps >= 30:
+                    await cube.api.motor.motor_control(30, 30)
+
+                await asyncio.sleep(10/steps)
+                # await asyncio.sleep(1)
+
+                await cube.api.motor.motor_control(0, 0)
+
+                print("ƒ‚[ƒ^[’â~AˆÊ’uæ“¾’†...")
+                toiopos = await cube.api.id_information.read()
+
+                x = toiopos.sensor.point.x
+                y = toiopos.sensor.point.y
+                print(f"Œ»İˆÊ’u: x={x}, y={y}")
+
+                current_position = (x, y)
+                moved_mm = 0.0
+                if self.previous_position is not None:
+                    dx = current_position[0] - self.previous_position[0]
+                    dy = current_position[1] - self.previous_position[1]
+                    moved_mm = math.sqrt(dx * dx + dy * dy)
+                    print(f"ˆÚ“®‹——£: {moved_mm:.2f} mm")
+                self.previous_position = current_position
+
+                self.ser.reset_input_buffer()
+                line = self.ser.readline().decode('utf-8', errors='ignore').strip()
+                print(f"ƒVƒŠƒAƒ‹óM: {line}")
+                parts = line.split(',')
+                if len(parts) < 3:
+                    print("ƒf[ƒ^Œ`®•s³AƒXƒLƒbƒv")
+                    continue
+                distance, duration, button_state = parts
+                try:
+                    distance = float(distance)
+                    duration = float(duration)
+                    button_state = int(button_state)
+                except ValueError:
+                    print("”’l•ÏŠ·¸”sAƒXƒLƒbƒv")
+                    continue
+
+                distance_m = distance * 0.01
+                duration_s = duration * 0.000001
+
+                if i == 0:
+                    cumulative_m = distance_m
+                else:
+                    cumulative_m += (moved_mm + 5.0) * 0.001
+
+                current_time = datetime.now()
+                elapsed_sec = (current_time - self.previous_time).total_seconds()
+                self.previous_time = current_time
+
+                with open(csv_file, mode='a', newline='', encoding='utf-8') as file:
+                    writer = csv.writer(file)
+                    writer.writerow([
+                        current_time.strftime("%Y-%m-%d %H:%M:%S"),
+                        elapsed_sec,
+                        distance,
+                        moved_mm + 5.0,
+                        duration / 2,
+                        distance_m,
+                        duration_s,
+                        cumulative_m
+                    ])
+
+                times.append(duration_s)
+                distances.append(cumulative_m)
+
+                self.tree.insert("", "end", values=(i + 1, f"{duration:.2f}", f"{cumulative_m:.3f}"))
+
+                await asyncio.sleep(delay_sec)
+        finally:
+            print("toioØ’f‚ÆƒVƒŠƒAƒ‹ƒNƒ[ƒY")
+            await cube.disconnect()
+            if self.ser.is_open:
+                self.ser.close()
+
+        if len(times) >= 2:
+            print("ƒOƒ‰ƒt•`‰æˆ—ŠJn")
+            times_np = np.array(times)
+            distances_np = np.array(distances)
+            slope, intercept = np.polyfit(times_np, distances_np, 1)
+            regression_line = slope * times_np + intercept
+
+            self.ax.clear()
+            self.ax.plot(times_np, distances_np, 'o', label='Data')
+            self.ax.plot(times_np, regression_line, '-', label=f'y = {slope:.4f}x + {intercept:.4f}')
+            self.ax.set_xlabel('Time (s)')
+            self.ax.set_ylabel('Cumulative Distance (m)')
+            self.ax.set_title('Cumulative Distance vs Time')
+            self.ax.legend()
+            self.ax.grid(True)
+            self.canvas.draw()
+            print("ƒOƒ‰ƒt•`‰æŠ®—¹")
+
+if __name__ == "__main__":
+    print("ƒAƒvƒŠ‹N“®")
+    root = tk.Tk()
+    app = ToioMeasurementApp(root)
+    root.mainloop()
+
+'''
+
+- Arduino‚ÌƒvƒƒOƒ‰ƒ€
+
+'''
+#define TRIG_PIN 9
+#define ECHO_PIN 2
+#define BUTTON_PIN 3
+
+void setup() {
+  pinMode(TRIG_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+  pinMode(BUTTON_PIN, INPUT_PULLUP);
+  Serial.begin(9600);
+}
+
+void loop() {
+  // ’´‰¹”gƒpƒ‹ƒX‚ğ‘—M
+  digitalWrite(TRIG_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG_PIN, LOW);
+
+  // ’µ‚Ë•Ô‚è‚ÌŠÔ‚ğæ“¾i’PˆÊFƒ}ƒCƒNƒ•bj
+  long duration = pulseIn(ECHO_PIN, HIGH);
+
+  // ‹——£‚ğZoicmj
+  float distance = duration * 0.034 / 2;
+  int buttonState = digitalRead(BUTTON_PIN);
+  // Œ‹‰Ê‚ğ•\¦
+  Serial.print(distance);
+  Serial.print(",");
+  Serial.print(duration);
+  Serial.print(",");
+  Serial.println(buttonState);
+
+  delay(500);  // 0.5•b‚²‚Æ‚É‘ª’è
+}
+'''
+
+- Excel‚É‚æ‚éÅ¬©æÀ‘•—á
+
+-- ƒf[ƒ^WŒv•\
+![ex01](./pic/ex01.png "ex01")
+
+-- Å¬“ñæ–@‚É‚æ‚é’¼üƒtƒBƒbƒeƒBƒ“ƒO‚ÆƒOƒ‰ƒtì¬—á
+![ex02](./pic/ex02.png "ex02")
